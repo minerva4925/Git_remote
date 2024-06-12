@@ -1,0 +1,18 @@
+* pwd -- print working directory
+*mkdir -- make directory
+* cd -- change directory
+* ls -- display list
+* touch -- create new file
+* rm -- delete remove file
+
+-----------------------
+* Repository -- stores file/folder
+	> Local repository -- version of repo stored on pc
+	> remote repository -- server cloud based
+
+* git init -- initialize folder
+
+* git config --global user.name
+* git config --global user.email
+
+* git status -- current status
