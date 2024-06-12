@@ -16,3 +16,9 @@
 * git config --global user.email
 
 * git status -- current status
+
+* git add . --- adds all modified files in your current directory to the staging area
+
+* git add "filename" --- add specific file to staging area
+
+* git commit -m "message" --- saves changes (msg describes the changes)
