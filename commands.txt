@@ -22,3 +22,7 @@
 * git add "filename" --- add specific file to staging area
 
 * git commit -m "message" --- saves changes (msg describes the changes)
+
+* git log --- show all the commits that were made
+
+*git log --oneline --- show condensed commits that were made
